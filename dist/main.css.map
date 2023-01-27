@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":"AAAA,EACE,SACF,CAEA,IACE,WACF","sources":["webpack://virtual-keyboard/./src/css/main.css"],"sourcesContent":["p {\r\n  color: red;\r\n}\r\n\r\ndiv {\r\n  width: 150px;\r\n}\r\n"],"names":[],"sourceRoot":""}
